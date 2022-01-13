@@ -1,2 +1,2 @@
 # formulario-mostrar-registros
-Aplicación sencilla para mostrar resultados en la pantalla. 
+Aplicación que muestra los registros de una base d e datos en pantalla. 
